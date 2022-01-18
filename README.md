@@ -31,7 +31,7 @@ Once you see your terminal to change to root@..., type:
 ls
 ```
 
-![image](https://user-images.githubusercontent.com/4943759/149857609-4b34d8da-772e-48f2-a7e1-76fb9edf6316.png)
+![image](https://user-images.githubusercontent.com/4943759/149857696-32a773c5-19ba-4df0-a4b3-773e6710ea87.png)
 
 
 You should the file contents of a full Ubuntu linux server! Congrats!
@@ -40,6 +40,6 @@ Did you notice how fast it took to run a container process of a entire server?
 
 In this course, we will continue to walk through all the benefits of containers.
 
-We will build production-level python, fastapi, react, redis, machine-learning containers and deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
+We will build production-level python, fastapi, react, redis, worker queue containers to deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
 
 
