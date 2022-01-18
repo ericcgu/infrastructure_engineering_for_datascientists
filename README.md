@@ -14,7 +14,7 @@ If you have ever used the `pandas`, `NumPy` or `Keras` libraries, then you have 
 
 A Container like Docker is a process that can help **reduce** application deployment complexity by packaging all the specific ingredients for your app so you can ship and deploy your application to any production environment whether that is a private server or public cloud. (Amazon Web Services, Google Cloud or Microsoft's Azure Cloud).
 
-Learning to build your own containers is a powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastructure to power your applications to the scale of your dreams.
+Learning to build your own containers is a powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastructure to scale your applications.
 
 To illustrate: let's provision a linux server with one command and bash into the server container:
 
