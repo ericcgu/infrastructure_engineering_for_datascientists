@@ -12,9 +12,9 @@ If you have ever used the `pandas`, `NumPy` or `Keras` libraries, then you have 
 
 A Container like Docker is a process that can help reduce application deployment complexity by packaging all the specific ingredients for your app so you can ship and deploy your application to any production environment whether that is a private server or public cloud such as Amazon Web Services, Google Cloud or Microsoft's Azure Cloud.
 
-Learning to build your own containers is powerful skillset that can help you and your team save money, increases development agility, build powerful applications that can scale.
+Learning to build your own containers is powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastruture to power your applications to scale to many end users.
 
-To illustrate: we will download and run an Ubuntu server with one command:
+To illustrate: we will download and run an linux server with one command:
 
 ```
 Ensure Docker is installed by the following command:
@@ -38,7 +38,9 @@ You should the file contents of a full Ubuntu linux server! Congrats!
 
 Did you notice how fast it took to run a container process of a entire server? 
 
-In this course, we will continue to walk through all the benefits of containers.
+Did you notice the simplicity?
+
+In this course, we will continue to walk through all the benefits of containers and build custom containers of increasing complexity step by step.
 
 We will build production-level python, fastapi, react, redis, worker queue containers to deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
 
