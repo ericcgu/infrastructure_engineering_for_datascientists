@@ -38,7 +38,7 @@ ls
 
 You should the file directory of a full Ubuntu linux server! 
 
-**Congrats!**
+**Congrats! Welcome to Your First Step In Your Infrastructure As Code Journey**
 
 Did you notice how fast it took to run a container process of a entire server? 
 
