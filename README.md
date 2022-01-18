@@ -16,7 +16,7 @@ A Container like Docker is a process that can help **reduce** application deploy
 
 Learning to build your own containers is a powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastructure to power your applications to the scale of your dreams.
 
-To illustrate: let's provision a linux server with one command and bash into linux machine:
+To illustrate: let's provision a linux server with one command and bash into the server container:
 
 ```
 Ensure Docker is installed by the following command:
@@ -44,7 +44,7 @@ Did you notice how fast it took to run a container process of a entire server?
 
 Did you notice the simplicity?
 
-In this course, we will continue to walk through all the benefits of containers and build custom containers of increasing complexity step by step.
+In this course, we will continue to walk through all the benefits of containers and build **custom** containers of increasing complexity step by step.
 
 We will build production-level: 
 
