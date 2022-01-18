@@ -42,6 +42,6 @@ Did you notice the simplicity?
 
 In this course, we will continue to walk through all the benefits of containers and build custom containers of increasing complexity step by step.
 
-We will build production-level python, fastapi, react, redis, worker queue containers to deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
+We will build production-level python, fastapi, react, redis, worker queue containers, link them together (orchestration) and deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
 
 
