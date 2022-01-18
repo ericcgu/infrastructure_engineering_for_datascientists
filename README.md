@@ -1,11 +1,16 @@
-# Container Basics
-
-# Who Is This Course for
-
-This course is for data scientists and software engineers who want to learn more about how to scale their applications in a real world production manner. 
+# Applied Container Basics for Data Scientists 
 
 # Prerequisites
 
-Basic Familiarily with Linux
+Basic Linux.
+Docker Installation.
 
-# Course 1
+# Why Containers?
+
+Today's modern computing requires use to use more and more dependencies. If you have ever used the `pandas`, then you have used an application dependency. 
+
+A Container like Docker is a process that can help reduce application deployment complexity by packaging all the specific ingredients for your app and ship your application to any environment: On Premise Virtual Machines or Public Cloud (aws, azure, google).
+
+A Container is one of the smallest units of a big idea of infrastructure as code. 
+
+
