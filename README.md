@@ -36,7 +36,9 @@ ls
 ![image](https://user-images.githubusercontent.com/4943759/149857696-32a773c5-19ba-4df0-a4b3-773e6710ea87.png)
 
 
-You should the file directory of a full Ubuntu linux server! Congrats!
+You should the file directory of a full Ubuntu linux server! 
+
+**Congrats!**
 
 Did you notice how fast it took to run a container process of a entire server? 
 
