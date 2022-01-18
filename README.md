@@ -12,9 +12,9 @@ Today's modern computing requires us as Data Scientists to use more and more dep
 
 If you have ever used the `pandas`, `NumPy` or `Keras` libraries, then you have used an application dependency. 
 
-A Container like Docker is a process that can help reduce application deployment complexity by packaging all the specific ingredients for your app so you can ship and deploy your application to any production environment whether that is a private server or public cloud such as Amazon Web Services, Google Cloud or Microsoft's Azure Cloud.
+A Container like Docker is a process that can help **reduce** application deployment complexity by packaging all the specific ingredients for your app so you can ship and deploy your application to any production environment whether that is a private server or public cloud. (Amazon Web Services, Google Cloud or Microsoft's Azure Cloud).
 
-Learning to build your own containers is a powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastructure that will power your applications to the scale of your dreams.
+Learning to build your own containers is a powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastructure to power your applications to the scale of your dreams.
 
 To illustrate: let's provision a linux server with one command and bash into linux machine:
 
