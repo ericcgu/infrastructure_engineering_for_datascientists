@@ -38,7 +38,7 @@ ls
 
 You should the file directory of a full Ubuntu linux server! 
 
-**Congrats! Welcome to Your First Step In Your Infrastructure As Code Journey**
+**Congrats! Welcome to Your First Step In Your Infrastructure As Code Journey.**
 
 Did you notice how fast it took to run a container process of a entire server? 
 
@@ -52,7 +52,7 @@ We will build production-level:
 - fastapi
 - react user interface
 - redis
-- worker queue containers
+- worker queue containers (optimized for machine learning and I/O tasks)
 
 We will link them together (orchestration) and deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
 
