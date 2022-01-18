@@ -2,9 +2,9 @@
 
 # Prerequisites
 
-Basic Linux.
-
 Docker Installation.
+
+Basic Linux. (Helpful)
 
 # Why Containers?
 
@@ -27,7 +27,7 @@ docker --version
 docker run -it ubuntu /bin/bash
 ```
 
-Once you see your terminal to change to root@..., type: 
+Once you see your terminal to change to root@..., type ls (command to list computer files): 
 
 ```
 ls
