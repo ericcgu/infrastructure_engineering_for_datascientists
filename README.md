@@ -15,7 +15,7 @@ A Container like Docker is a process that can help reduce application deployment
 
 Learning to build your own containers is powerful skillset that can help you and your team save money, deploy faster and more frequently, and leverage powerful infrastruture to power your applications to scale to many end users.
 
-To illustrate: we will download and run an linux server with one command:
+To illustrate: let's provision a linux server with one command and bash into linux machine:
 
 ```
 Ensure Docker is installed by the following command:
@@ -35,7 +35,7 @@ ls
 ![image](https://user-images.githubusercontent.com/4943759/149857696-32a773c5-19ba-4df0-a4b3-773e6710ea87.png)
 
 
-You should the file contents of a full Ubuntu linux server! Congrats!
+You should the file directory of a full Ubuntu linux server! Congrats!
 
 Did you notice how fast it took to run a container process of a entire server? 
 
@@ -43,6 +43,6 @@ Did you notice the simplicity?
 
 In this course, we will continue to walk through all the benefits of containers and build custom containers of increasing complexity step by step.
 
-We will build production-level python, fastapi, react, redis, worker queue containers, link them together (orchestration) and deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
+We will build production-level python, fastapi, react/vue/ user interface, redis, worker queue containers, link them together (orchestration) and deploy your machine-learning or application code to modern cloud services such as Google Cloud Run.
 
 
